@@ -4,6 +4,14 @@
 ## Description
 This project aims to develop a machine learning model to predict bike rental demand in urban areas. By analyzing historical data. This information will be crucial for bike-sharing companies to optimize their operations, improve customer satisfaction, and achieve sustainable growth. The project will involve data exploration, feature engineering, model selection, and model evaluation using appropriate metrics. The final model will be deployed using streamlit for easy accessibility and real-time predictions.
 
+## Project Structure
+```
+📂 BSRU
+┣ 📜 Dataset File   
+┣ 📜 Source Code File
+┣ 📜 Streamlit Code File  
+```
+
 ## Features
 - Data Collection
 - Data Preprocessing
@@ -29,9 +37,6 @@ This project aims to develop a machine learning model to predict bike rental dem
 3. Description of Important Features
 - Date, Season, Year, Month, Hour, Holiday, Weekday, WorkingDay, Weather_Condition,
 Tempature, aTempature, Humidity, WindSpeed, Casual, Registered, TotalCount
-
-
-## Results & Visualizations
 
 
 
